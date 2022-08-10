@@ -1,7 +1,7 @@
 <!-- Written by Itsnexn with <3 -->
 <div>
   <div align="center">
-    <img width="150" src="logo.png">
+    <img width="150" src="./logo.png">
   </div>
   <div align="center">
     <h1>Binary Labs</h1>
